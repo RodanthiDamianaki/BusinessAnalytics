@@ -129,3 +129,4 @@ rocplot(pred3.dv,test.y,order=c("MM","CH"),col="blue", add=TRUE, lwd=2,cex.lab=1
 legend("bottomright", cex=0.9,
        c("linear (C=0.01, γ=0.067)", "radial (C=1, γ=0.067)", "polynomial (C=10, γ=0.067, d=2)"),
        col=c("green","red","blue"),lty=1,lwd=2)
+#dsjvfhjedks
